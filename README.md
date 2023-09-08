@@ -1,3 +1,3 @@
 # forbidden-conductors
-This repository contains code and data accompanying the paper "Forbidden conductors of L-functions and continued fractions of particular form", cf. http://doi.org//10.4064/aa220721-30-9 .
+This repository contains code and data accompanying the paper "Forbidden conductors of L-functions and continued fractions of particular form", http://doi.org//10.4064/aa220721-30-9 supported by the Istituto Nazionale di Alta Matematica, by the MIUR grant PRIN-2017 ``Geometric, algebraic and analytic methods in arithmetic'' and by grant 2021/41/BST1/00241 ``Analytic methods in number theory'' from the National Science Centre, Poland.
 The description is available on a slightly different license, along with the copies of the same files, at https://maciejr.web.amu.edu.pl/computations/conductors/ .
